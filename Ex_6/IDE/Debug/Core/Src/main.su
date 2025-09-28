@@ -1,0 +1,7 @@
+main.c:96:8:turn_off_all_leds	104	static
+main.c:64:5:main	104	static
+main.c:135:10:setNumberOnClock	96	static
+main.c:159:8:displayClock	128	static
+main.c:291:6:SystemClock_Config	72	static
+main.c:327:13:MX_GPIO_Init	32	static
+main.c:360:6:Error_Handler	4	static,ignoring_inline_asm
